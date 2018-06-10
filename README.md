@@ -21,7 +21,7 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Radosław Dunin-Wąsowicz
 
-|Zadanie|Godzin pracy|
+|Zadania|Godziny pracy|
 |---|---|
 |Formularz logowania|5|
 |Firebase implementacja|1|
@@ -30,25 +30,28 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Autoryzacja|10|
 |Organizacja gh-pages|6|
 |Walidacja email, dodawanie nowych użytkowników|6|
+|---|---|
 |Razem|40|
 
 ### Arkadiusz Kryk
 
-|Zadanie|Godzin pracy|
+|Zadania|Godziny pracy|
 |---|---|
 |Strona główna|12|
 |Okna dialogowe ze szczegółowymi informacjami o filmie|4|
 |Algorytm generowania seansów|4|
 |Mergowanie|4|
+|---|---|
 |Razem|26|
 
 ### Jakub Kwiatek
 
 
-|Zadanie|Godzin pracy|
+|Zadania|Godziny pracy|
 |---|---|
 |Przygotowanie koncepcji projektu|2|
 |Struktura bazy danych i wprowadzenie zestawu testowego|10|
 |Metody obsługujące bazę danych|4|
 |Algorytm generowania seansów|6|
+|---|---|
 |Razem|22|
