@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Opis projektu
 
-You can use the [editor on GitHub](https://github.com/flowerasny/flowerasny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Celem aplikacji jest pomoc przy wyborze filmu oraz rezerwacji biletu w wybranym kinie. Aplikacja pokazywałaby różne aktualnie grane w kinie filmy, wraz z ich opisem, recenzją, opinią użytkowników. Użytkownik miałby możliwość wybrania interesującego go filmu, a następnie zarezerwowania biletu na dany dzień i godzinę.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Po uruchomieniu aplikacji użytkownikowi wyświetla się lista filmów, z oceną, następnie po kliknięciu w wybrany ukazują się szczegóły: opis, recenzja, plakat itp. Dodatkowo użytkownik ma możliwość wyboru danego kina i kupno biletu na seans.
 
 ### Markdown
 
