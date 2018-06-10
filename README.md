@@ -19,15 +19,15 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Strona główna
 
-![home](https://github.com/flowerasny/Cinema-App/blob/master/assets/home_page.png)
+![home](https://aw.githubusercontent.com/flowerasny/Cinema-App/blob/master/assets/home_page.png)
 
 ### Logowanie
 
-![login](https://github.com/flowerasny/Cinema-App/blob/master/assets/login.png)
+![login](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/login.png)
 
 ### Repertuar
 
-![seances](https://github.com/flowerasny/Cinema-App/blob/master/assets/seances.png)
+![seances](https://raw.githubusercontent.com/flowerasny/Cinema-App/blob/master/assets/seances.png)
 
 ## Raporty prac
 
