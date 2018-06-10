@@ -30,7 +30,7 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Autoryzacja|10|
 |Organizacja gh-pages|6|
 |Walidacja email, dodawanie nowych użytkowników|6|
-|**Razem|40**|
+|**Razem**|**40**|
 
 ### Arkadiusz Kryk
 
@@ -40,7 +40,7 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Okna dialogowe ze szczegółowymi informacjami o filmie|4|
 |Algorytm generowania seansów|4|
 |Mergowanie|4|
-|**Razem|26**|
+|**Razem**|**26**|
 
 ### Jakub Kwiatek
 
@@ -52,4 +52,4 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Metody obsługujące bazę danych|4|
 |Algorytm generowania seansów|6|
 |Strona projektu|2|
-|**Razem|24**|
+|**Razem**|**24**|
