@@ -17,7 +17,17 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ## Prototyp projektu
 
+### Strona główna
 
+![home]({{ site.url }}/assets/home_page.png)
+
+### Logowanie
+
+![login]({{ site.url }}/assets/login.png)
+
+### Repertuar
+
+![seances]({{ site.url }}/assets/seances.png)
 
 ## Raporty prac
 
