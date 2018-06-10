@@ -19,7 +19,7 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Strona główna
 
-![home](https://aw.githubusercontent.com/flowerasny/Cinema-App/blob/master/assets/home_page.png)
+![home](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/home_page.png)
 
 ### Logowanie
 
@@ -27,7 +27,7 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Repertuar
 
-![seances](https://raw.githubusercontent.com/flowerasny/Cinema-App/blob/master/assets/seances.png)
+![seances](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/seances.png)
 
 ## Raporty prac
 
