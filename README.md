@@ -57,7 +57,6 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Jakub Kwiatek
 
-
 |Zadania|Godziny pracy|
 |---|---:|
 |Przygotowanie koncepcji projektu|4|
@@ -66,3 +65,14 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Algorytm generowania seansów|6|
 |Strona projektu|2|
 |**Razem**|**27**|
+
+### Dominik Jaskólski
+
+|Zadania|Godziny pracy|
+|---|---:|
+|Komponenty sali kinowej|10|
+|Synchronizacja miejsc na sali kinowej z bazą danych|5|
+|Wyświetlanie seansów w repertuarze|4|
+|Proces rezerwacji|4|
+|Routing|3|
+|**Razem**|**26**|
