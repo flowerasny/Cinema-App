@@ -17,6 +17,8 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ## Prototyp projektu
 
+
+
 ## Raporty prac
 
 ### Radosław Dunin-Wąsowicz
@@ -36,20 +38,21 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 |Zadania|Godziny pracy|
 |---|---:|
+|Prototyp|4|
 |Strona główna|12|
 |Okna dialogowe ze szczegółowymi informacjami o filmie|4|
 |Algorytm generowania seansów|4|
 |Mergowanie|4|
-|**Razem**|**26**|
+|**Razem**|**28**|
 
 ### Jakub Kwiatek
 
 
 |Zadania|Godziny pracy|
 |---|---:|
-|Przygotowanie koncepcji projektu|2|
-|Struktura bazy danych i wprowadzenie zestawu testowego|10|
-|Metody obsługujące bazę danych|4|
+|Przygotowanie koncepcji projektu|4|
+|Struktura bazy danych i wprowadzenie zestawu testowego|12|
+|Metody obsługujące bazę danych|3|
 |Algorytm generowania seansów|6|
 |Strona projektu|2|
-|**Razem**|**24**|
+|**Razem**|**27**|
