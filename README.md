@@ -1,4 +1,4 @@
-## Opis projektu
+﻿## Opis projektu
 
 Celem aplikacji jest pomoc przy wyborze filmu oraz rezerwacji biletu w wybranym kinie. Aplikacja pokazywałaby różne aktualnie grane w kinie filmy, wraz z ich opisem, recenzją, opinią użytkowników. Użytkownik miałby możliwość wybrania interesującego go filmu, a następnie zarezerwowania biletu na dany dzień i godzinę.
 
@@ -17,7 +17,21 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ## Prototyp projektu
 
+### Strona główna
 
+![home](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/home_page.png)
+
+### Logowanie
+
+![login](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/login.png)
+
+### Repertuar
+
+![seances](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/seances.png)
+
+### Sala kinowa
+
+![cinema_hall](https://raw.githubusercontent.com/flowerasny/Cinema-App/master/assets/cinema_hall.png)
 
 ## Raporty prac
 
@@ -47,7 +61,6 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 
 ### Jakub Kwiatek
 
-
 |Zadania|Godziny pracy|
 |---|---:|
 |Przygotowanie koncepcji projektu|4|
@@ -56,3 +69,14 @@ https://trello.com/b/zBg5vZEo/cinemaapp
 |Algorytm generowania seansów|6|
 |Strona projektu|2|
 |**Razem**|**27**|
+
+### Dominik Jaskólski
+
+|Zadania|Godziny pracy|
+|---|---:|
+|Komponenty sali kinowej|10|
+|Synchronizacja miejsc na sali kinowej z bazą danych|5|
+|Wyświetlanie seansów w repertuarze|4|
+|Proces rezerwacji|4|
+|Routing|3|
+|**Razem**|**26**|
